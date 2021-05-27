@@ -1,0 +1,69 @@
+body {
+  background-color: #E4E9FD;
+  background-image: -webkit-linear-gradient(65deg, #A683E3 50%, #E4E9FD 50%);
+  min-height: 1000px;
+  
+font-family: font-family: 'Roboto Condensed', sans-serif;
+}
+hr{
+    border: dotted  #36151E  6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+.nav-link{
+font-size: 1.2rem;
+font-family: 'Montserrat';
+}
+
+.navbar{
+  padding: 0 0 4.5rem;
+}
+.navbar-brand{
+  font-family: 'ubuntu';
+  font-size: 2rem;
+  font-weight: bold;
+  color: red;
+} 
+
+.nav-link{
+font-size: 1.2rem;
+font-family: font-family: 'Roboto Condensed', sans-serif;
+
+}
+.head{
+	 
+  font-family: 'Source Code Pro', monospace;
+
+}
+.nav-item{
+  padding: 0 18px;
+  
+}
+.navbar-brand{
+  font-family: 'ubuntu';
+  font-size: 2.5rem;
+  font-weight: bold;
+} 
+.fa-check-circle :hover{
+  color:black ;
+}
+.fa{
+  
+  color: #ef8172;
+}
+
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #8499B1;
+  color: #fff;
+}
+.test {
+  width: 30% ;
+  border-radius:100%;
+  margin: 20px;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
